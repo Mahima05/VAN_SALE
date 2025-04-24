@@ -123,7 +123,7 @@ The application integrates with various backend APIs for data management:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/abis2.git
+git clone https://github.com/Mahima05/VAN_SALE.git
 ```
 
 2. Navigate to the project directory
