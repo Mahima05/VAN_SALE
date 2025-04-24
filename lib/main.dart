@@ -109,7 +109,7 @@ import 'package:abis2/Reports/Stock.dart';
 import 'package:abis2/Reports/Day Reports/Day_Reports.dart';
 
 
-// this is my first changes, see it
+
 
 String BearerToken = loginBearerToken;
 String customerName = '';
